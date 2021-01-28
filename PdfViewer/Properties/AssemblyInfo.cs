@@ -17,7 +17,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Syncfusion Inc.")]
 [assembly: AssemblyProduct("Syncfusion.SampleBrowser.UWP.PdfViewer")]
-[assembly: AssemblyCopyright("Copyright © 2001-2021 Syncfusion Inc.")]
+[assembly: AssemblyCopyright("Copyright © 2001-2020 Syncfusion Inc.")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
