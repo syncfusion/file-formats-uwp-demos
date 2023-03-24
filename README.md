@@ -1,4 +1,4 @@
-# Syncfusion File Format UWP product samples
+﻿# Syncfusion File Format UWP product samples
 
 This repository contains the demos of Syncfusion file format UWP products. Syncfusion file format products contains .NET libraries to create, read, and edit [PDF](https://www.syncfusion.com/pdf-framework/uwp?utm_source=github&utm_medium=listing), [Excel](https://www.syncfusion.com/excel-framework/uwp?utm_source=github&utm_medium=listing), [Word](https://www.syncfusion.com/word-framework/uwp?utm_source=github&utm_medium=listing) and [PowerPoint](https://www.syncfusion.com/powerpoint-framework/uwp?utm_source=github&utm_medium=listing) files. Also, it contains UI controls such as [PDF Viewer](https://www.syncfusion.com/uwp-ui-controls/pdf-viewer?utm_source=github&utm_medium=listing), [RichTextBox](https://www.syncfusion.com/uwp-ui-controls/richtextbox?utm_source=github&utm_medium=listing) and [Spreadsheet](https://www.syncfusion.com/uwp-ui-controls/spreadsheet?utm_source=github&utm_medium=listing) to work with PDF, Word and Excel files interactively. This is the best place to check our libraries/controls to get more insight about the usage of APIs.
 
@@ -102,5 +102,5 @@ The easiest way to use these samples without using Git is to download the zip fi
 
 * To renew the subscription, click [here](https://www.syncfusion.com/sales/products?utm_source=github&utm_medium=listing) or contact our sales team at <salessupport@syncfusion.com>.
 
-<p>Copyright © 2001-2023 Syncfusion, Inc. Updated on 2023-02-03 at precisely 05:57:22 EST.</p> 
+<p>Copyright © 2001-2023 Syncfusion, Inc. Updated on 2023-03-24 at precisely 09:12:05 EST.</p> 
 
