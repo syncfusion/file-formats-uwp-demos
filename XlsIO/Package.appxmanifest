@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Package xmlns="http://schemas.microsoft.com/appx/manifest/foundation/windows10" xmlns:mp="http://schemas.microsoft.com/appx/2014/phone/manifest" xmlns:uap="http://schemas.microsoft.com/appx/manifest/uap/windows10" IgnorableNamespaces="uap mp">
-  <Identity Name="3ecdac2c-7430-4d92-bb5c-1d1453f7799e" Publisher="CN=Syncfusion Pvt Ltd" Version="1.0.0.0" />
+  <Identity Name="3ecdac2c-7430-4d92-bb5c-1d1453f7799e" Publisher="CN=Syncfusion" Version="1.0.0.0" />
   <mp:PhoneIdentity PhoneProductId="3ecdac2c-7430-4d92-bb5c-1d1453f7799e" PhonePublisherId="00000000-0000-0000-0000-000000000000" />
   <Properties>
     <DisplayName>Syncfusion.SampleBrowser.UWP.XlsIO</DisplayName>
